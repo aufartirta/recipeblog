@@ -1,0 +1,4 @@
+[submodule "aufarecipe/public"]
+	path = aufarecipe/public
+	url = https://github.com/aufartirta/aufartirta.github.io.git
+	branch = main
